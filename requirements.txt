@@ -1,0 +1,9 @@
+numpy
+pandas
+scikit-learn
+# geopandas
+# geopy
+# plotly
+jupyter
+matplotlib
+
